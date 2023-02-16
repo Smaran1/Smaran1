@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Smaran1
-- 👀 I’m interested in data management
-- 🌱 I’m currently learning R
+- 👀 I’m learning
 - 📫 How to reach me : email : smaranraialt@gmail.com
 
 <!---
